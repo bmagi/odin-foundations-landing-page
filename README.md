@@ -1,0 +1,1 @@
+This is "The Odin Project" Landing Page project from the foundations course.
